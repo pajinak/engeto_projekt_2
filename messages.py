@@ -9,7 +9,7 @@ Let's play a bulls and cows game.
 
 spatny_stup = """You entered invalit number. 
 Your number must have 4 digits and shouldn't
-start with zero or has some duplication."""
+start with zero or have any duplication."""
 
 oddelovac = """-----------------------------------------------"""
 
